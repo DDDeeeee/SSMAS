@@ -1,7 +1,7 @@
 # SSMAS
 
 ## Overview
-
+**SSMAS**: Sequential Structured Multimodal (interleaved image-text) Abstractive Summarization dataset.  
 The **SSMAS** dataset is an extension of [**XSum**](https://github.com/EdinburghNLP/XSum), which is built based on [BBC](https://www.bbc.com/news) News.  
 
 ## Dataset Description

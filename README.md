@@ -39,6 +39,9 @@ The structure of each data sample:
     </ul>
 </ul>
 
+## Download  
+
+[Baidu Netdisk Download](https://pan.baidu.com/s/1sccjD5waAxcrBVnv5B0S5Q?pwd=47wl), [Google Drive](https://drive.google.com/file/d/1jZMUh6ytKc-1dG08oT5nIXg2nd2faojF/view?usp=drive_link)
 
 ## License
 

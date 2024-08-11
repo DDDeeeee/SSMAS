@@ -23,7 +23,7 @@ The structure of each data sample:
         <li>first (summary)</li>
         <li>sent (news text)</li>
         <ul>
-            <li>every sent</li>
+            <li>every sentence</li>
         </ul>
         <li>caps</li>
         <ul>
@@ -34,7 +34,7 @@ The structure of each data sample:
             <li>next sentence index</li>
         </ul>
         <li>cap_index (position for inserting caption)</li>
-        <li>cap_sent (caption+img_title)</li>
+        <li>cap_sent (caption + image title)</li>
         <li>pic_index (position for inserting image, after caption)</li>
     </ul>
 </ul>

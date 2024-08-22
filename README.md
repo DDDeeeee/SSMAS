@@ -7,7 +7,7 @@ The **SSMSum** dataset is an extension of [**XSum**](https://github.com/Edinburg
 ## Dataset Description
 
 - **Data Format**: json  
-- **Size**: < 1GB  
+- **Size**: \approx 25GB  
 - **Number of Samples**: 192418  
 - **Partitioning**: SSMAS is split according to the XSum dataset [here](https://github.com/EdinburghNLP/XSum/blob/master/XSum-Dataset/XSum-TRAINING-DEV-TEST-SPLIT-90-5-5.json) 
 

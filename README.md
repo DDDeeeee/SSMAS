@@ -4,12 +4,14 @@
 **SSMAS**: Sequential Structured Multimodal (interleaved image-text) Abstractive Summarization  
 The **SSMSum** dataset is an extension of [**XSum**](https://github.com/EdinburghNLP/XSum), which is built based on [BBC](https://www.bbc.com/news) News.  
 
+<img src="https://www.bbc.com/news/uk-england-cumbria-33732567)](https://github.com/DDDeeeee/SSMAS/blob/main/SSMAS.jpg" alt="Excluding title and first sentence (summary)" style="zoom:50%;" />
+
 ## Dataset Description
 
 - **Data Format**: json  
-- **Size**: \approx 25GB  
+- **Size**: ≈ 25GB  
 - **Number of Samples**: 192418  
-- **Partitioning**: SSMAS is split according to the XSum dataset [here](https://github.com/EdinburghNLP/XSum/blob/master/XSum-Dataset/XSum-TRAINING-DEV-TEST-SPLIT-90-5-5.json) 
+- **Partitioning**: SSMAS is split according to the XSum dataset [here](https://github.com/EdinburghNLP/XSum/blob/master/XSum-Dataset/XSum-TRAINING-DEV-TEST-SPLIT-90-5-5.json)
 
 ## Structure
 

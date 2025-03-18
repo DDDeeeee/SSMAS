@@ -50,11 +50,4 @@ The structure of each data sample:
 
 The SSMAS dataset is released under the Apache License. Please see the LICENSE file for details.
 
-## Citation
-
-If you use this dataset in your research, please cite it as follows:
-
-```
-Temporarily anonymous
-```
 

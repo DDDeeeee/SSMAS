@@ -55,11 +55,6 @@ The SSMAS dataset is released under the Apache License. Please see the LICENSE f
 If you use this dataset in your research, please cite it as follows:
 
 ```
-@InProceedings{
-author={Rui He, Minjie Qiang, Hongling Wang, Zhongqing Wang},
-title={Sequential Structured Fusion of Image and Text for Enhanced Multimodal Abstractive Summarization},
-booktitle={The 13th CCF International Conference on Natural Language Processing and Chinese Computing},
-year={2024},
-}
+Temporarily anonymous
 ```
 

@@ -51,11 +51,11 @@ The structure of each data sample:
 The SSMAS dataset is released under the Apache License. Please see the LICENSE file for details.
 
 ## Citation
-`@inproceedings{he2024sequential,
-  title={Sequential Structured Fusion of Image and Text for Enhanced Multimodal Abstractive Summarization},
-  author={He, Rui and Qiang, Minjie and Wang, Hongling and Wang, Zhongqing},
-  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
-  pages={290--302},
-  year={2024},
-  organization={Springer}
-}`
+> @inproceedings{he2024sequential,
+>   title={Sequential Structured Fusion of Image and Text for Enhanced Multimodal Abstractive Summarization},
+>   author={He, Rui and Qiang, Minjie and Wang, Hongling and Wang, Zhongqing},
+>   booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+>   pages={290--302},
+>   year={2024},
+>   organization={Springer}
+> }

@@ -1,4 +1,6 @@
 # SSMAS
+### Sequential Structured Fusion of Image and Text for Enhanced Multimodal Abstractive Summarization (NLPCC 2024)
+------
 
 ## Overview
 **SSMAS**: Sequential Structured Multimodal (interleaved image-text) Abstractive Summarization  
